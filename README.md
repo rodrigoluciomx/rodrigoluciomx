@@ -1,5 +1,3 @@
-<img src="![Banner Marca Personal](https://github.com/rodrigoluciomx/rodrigoluciomx/assets/80486881/2a4d3430-a1f8-41f2-80ed-0a35c5becd18)"/> 
-
 ### Hi there 👋
 
 <!--
