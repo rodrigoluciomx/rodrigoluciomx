@@ -1,4 +1,4 @@
-<img src="/img/Banner Marca Personal.png"/>
+<img src="/img/Banner.png"/>
 
 ### Hi there 👋
 
