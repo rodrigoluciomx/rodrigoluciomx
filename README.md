@@ -2,7 +2,9 @@
 
 ## Hi, I'm Rodrigo Lucio 🫡
 
-<p>I'm a Frontend Developer with 2 years of experience using HTML, CSS, and Javascript to create websites and web applications. Also, I've started getting into web3 development, learning how to create smart contracts and some frameworks for the frontend as well. </p>
+<p>I'm a Frontend Developer with 2 years of experience using HTML, CSS, and Javascript to create websites and web applications. Right now my focus is to learn a master React and get better practice with my code.
+  
+  Also, I've started getting into web3 development, learning how to create smart contracts and some frameworks for the frontend as well. I'm currently enrolled in a BootCamp of development with NEAR Protocol using Rust </p>
 
 <!--
 **rodrigoluciomx/rodrigoluciomx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
