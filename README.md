@@ -3,7 +3,7 @@
 ## Hi, I'm Rodrigo Lucio 🫡
 `Open to work`
 
-<p>I'm a Frontend Developer with 2 years of experience using HTML, CSS, and Javascript to create websites and web applications. I've also started getting into web3 development, learning how to create smart contracts and some frameworks for the frontend.</p>
+<p>I'm a Frontend Developer with 2 years of experience creating websites and web applications. I've also started getting into web3 development, learning how to create smart contracts and some frameworks for the frontend.</p>
   
 <p>I consider myself a proactive person, I like to work with people, and listen to their advice and ideas in order to do better work. I'm very compromised with my self-development, to me is very important to be healthy and get a good life/work balance. </p>
 
