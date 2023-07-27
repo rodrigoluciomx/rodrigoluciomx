@@ -1,6 +1,8 @@
 <img src="Banner.png"/>
 
-## Hi, I'm Rodrigo Lucio
+## Hi, I'm Rodrigo Lucio 🫡
+
+<p>I'm a Frontend Developer with 2 years of experience using HTML, CSS, and Javascript to create websites and web applications. Also, I've started getting into web3 development, learning how to create smart contracts and some frameworks for the frontend as well. </p>
 
 <!--
 **rodrigoluciomx/rodrigoluciomx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
