@@ -1,6 +1,6 @@
 <img src="Banner.png"/>
 
-### Hi there 👋
+## Hi, I'm Rodrigo Lucio
 
 <!--
 **rodrigoluciomx/rodrigoluciomx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
