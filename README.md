@@ -4,11 +4,10 @@
 `Open to work`
 
 # 👨🏽‍💻 About me:
-<p>I'm a Frontend Developer with 2 years of experience creating websites and web applications. I've also started getting into web3 development, learning how to create smart contracts and some frameworks for the frontend.</p>
   
 <p>I consider myself a proactive person, I like to work with people, and listen to their advice and ideas in order to do better work. I'm very compromised with my self-development, to me is very important to be healthy and get a good life/work balance. </p>
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning computer vision with embedded machine learning
 - 🤓 I'm currently enrolled in a BootCamp development with NEAR Protocol using Rust.
 
 
