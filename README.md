@@ -1,4 +1,4 @@
-<img src="Banner.png"/>
+<img src="Banner Marca Personal.png"/>
 
 ## Hi, I'm Rodrigo Lucio 🫡
 `Open to work`
