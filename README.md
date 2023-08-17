@@ -8,7 +8,7 @@
 <p>I consider myself a proactive person, I like to work with people, and listen to their advice and ideas in order to do better work. I'm very compromised with my self-development, to me is very important to be healthy and get a good life/work balance. </p>
 
 - 🌱 I’m currently learning computer vision with embedded machine learning
-- 🤓 I'm currently enrolled in a BootCamp development with NEAR Protocol using Rust.
+- 🤓 I'm currently enrolled in a BootCamp to web3 development NEAR Protocol using Rust.
 
 
 ## 🌐 Socials:
