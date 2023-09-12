@@ -6,7 +6,7 @@
 # 👨🏽‍💻 About me:
 
 
-  
+<p>I am a mechatronics professional passionate about the Industrial Internet of Things (IIoT). My expertise lies in programming, with a focus on Python, C++, and Java for developing IIoT solutions. I am also diving into Artificial Intelligence to enhance industrial processes.</p>
 <p>I consider myself a proactive person, I like to work with people, and listen to their advice and ideas in order to do better work. I'm very compromised with my self-development, to me is very important to be healthy and get a good life/work balance. </p>
 
 - 🌱 I’m currently learning computer vision with embedded machine learning
