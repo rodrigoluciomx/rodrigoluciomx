@@ -6,8 +6,8 @@
 # 👨🏽‍💻 About me:
 
 
-<p>I am a mechatronics professional passionate about the Industrial Internet of Things (IIoT). My expertise lies in programming, with a focus on Python, C++, Java and Rust for developing IIoT solutions, and Ladder Logic Diagram with PLC's. I am also diving into Artificial Intelligence to enhance industrial processes.</p>
-<p>I consider myself a proactive person, I like to work with people, and listen to their advice and ideas in order to do better work. I'm very compromised with my self-development, to me is very important to be healthy and get a good life/work balance. </p>
+<p>I am a mechatronics professional passionate about the Industrial Internet of Things (IIoT). My programming expertise focuses on Python, C++, Java, and Rust for developing IIoT solutions and Ladder Logic Diagram with PLCs. I also dive into Artificial Intelligence to enhance industrial processes and am a blockchain enthusiast.</p>
+<p>I consider myself a proactive person; I like to work with people and listen to their advice and ideas in order to do better work. I'm very compromised with my self-development. It is very important to be healthy and have a good life/work balance. </p>
 
 - 🌱 I’m currently learning IIoT
 
@@ -19,18 +19,3 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoluciomx&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!--
-**rodrigoluciomx/rodrigoluciomx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
