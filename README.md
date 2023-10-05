@@ -1,5 +1,3 @@
-<img src="Banner.png"/>
-
 ## Hi, I'm Rodrigo Lucio 🫡
 `Open to work`
 
