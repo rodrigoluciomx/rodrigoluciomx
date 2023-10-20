@@ -7,7 +7,8 @@
 <p>I am a mechatronics professional passionate about the Industrial Internet of Things (IIoT). My programming expertise focuses on Rust for developing IIoT solutions and Ladder Logic Diagram with PLCs. I also dive into Artificial Intelligence to enhance industrial processes and am a blockchain enthusiast.</p>
 <p>I consider myself a proactive person; I like to work with people and listen to their advice and ideas in order to do better work. I'm very compromised with my self-development. It is very important to be healthy and have a good life/work balance. </p>
 
-- 🌱 I’m currently learning IIoT
+- 🌱 I’m currently learning blockchain and AI.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-lucio-66b081192/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rodrigoluciomx) 
