@@ -1,10 +1,9 @@
 ## Hi, I'm Rodrigo Lucio 🫡
-`Open to work`
 
 # 👨🏽‍💻 About me:
 
 
-<p>I am a mechatronics professional passionate about the Industrial Internet of Things (IIoT). My programming expertise focuses on Rust for developing IIoT solutions and Ladder Logic Diagram with PLCs. I also dive into Artificial Intelligence to enhance industrial processes and am a blockchain enthusiast.</p>
+<p>I am a mechatronics engineer passionate about the Industrial Internet of Things (IIoT). My programming expertise focuses on Rust for developing IIoT solutions and Ladder Logic Diagram with PLCs. I also dive into Artificial Intelligence to enhance industrial processes and am a blockchain enthusiast.</p>
 <p>I consider myself a proactive person; I like to work with people and listen to their advice and ideas in order to do better work. I'm very compromised with my self-development. It is very important to be healthy and have a good life/work balance. </p>
 
 - 🌱 I’m currently learning blockchain and AI.
