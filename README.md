@@ -3,11 +3,8 @@
 # 👨🏽‍💻 About me:
 
 
-<p>As a mechatronics engineer with a deep passion for Robotics and AI, I am driven to collaborate on projects that have a positive impact on society. With my expertise and dedication, I am confident that together we can create groundbreaking solutions that make a real difference. </p>
-<p>I consider myself a proactive person; I like to work with people and listen to their advice and ideas in order to do better work. I'm very compromised with my self-development. It is very important to be healthy and have a good life/work balance. </p>
-
-- 🤖 I’m currently enrolled in Robotics Software Engineer Nanodegree by Udacity.
-
+<p>With a strong background in mechatronics engineering, my enthusiasm for software development is particularly focused on blockchain (DeFi) and AI. Driven by a desire to make a positive impact, I am resolute in my goal to excel as a software developer and contribute to projects that benefit society. </p>
+<p>I am fully dedicated to continuous personal and professional growth, striving to evolve into the best version of myself while actively contributing to the well-being of others.</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-lucio-66b081192/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rodrigoluciomx) 
