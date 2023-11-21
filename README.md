@@ -3,7 +3,7 @@
 # 👨🏽‍💻 About me:
 
 
-<p>With a strong background in mechatronics engineering, my enthusiasm for software development is particularly focused on blockchain (DeFi) and AI. Driven by a desire to make a positive impact, I am resolute in my goal to excel as a software developer and contribute to projects that benefit society. When it comes to web development, I specialize in the front end, but I also have a strong understanding of blockchain and smart contract development.</p>
+<p>With a strong background in mechatronics engineering, my enthusiasm for software development is particularly focused on blockchain (DeFi) and AI. When it comes to web development, I specialize in the front end, but I also have a strong understanding of blockchain and smart contract development. Driven by a desire to make a positive impact, I am resolute in my goal to excel as a software developer and contribute to projects that benefit society. </p>
 <p>I am fully dedicated to continuous personal and professional growth, striving to evolve into the best version of myself while actively contributing to the well-being of others.</p>
 
 ## 🌐 Socials:
