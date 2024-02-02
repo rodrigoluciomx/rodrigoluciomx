@@ -3,7 +3,7 @@
 # 👨🏽‍💻 About me:
 
 
-<p>With a strong background in mechatronics engineering and enthusiasm for software development, I am interested in developing my career with AI and robotics, also I am a blockchain enthusiast. Driven by a desire to make a positive impact, I am resolute in my goal to excel as a software developer and contribute to projects that benefit society. </p>
+<p>With a bachelor's degree in mechatronics engineering and enthusiasm for software development, I am interested in developing my career with AI and robotics, also I am a blockchain enthusiast. Driven by a desire to make a positive impact, I am resolute in my goal to excel as a software developer and contribute to projects that benefit society. </p>
 <p>I am fully dedicated to continuous personal and professional growth, striving to evolve into the best version of myself while actively contributing to the well-being of others.</p>
 
 ## 🌐 Socials:
