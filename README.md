@@ -3,7 +3,7 @@
 # 👨🏽‍💻 About me:
 
 
-<p>I'm passionate about building autonomous robots that navigate and interact intelligently with currently focusing on **Navigation & Path Planning** </p>
+<p>I'm passionate about building autonomous robots that navigate and interact intelligently with currently focusing on Navigation & Path Planning using ROS2, Python, and C++</p>
 <p>I am fully dedicated to continuous personal and professional growth, striving to evolve into the best version of myself while actively contributing to the well-being of others.</p>
 
 ## 🌐 Socials:
