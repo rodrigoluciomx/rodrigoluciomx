@@ -3,7 +3,7 @@
 # 👨🏽‍💻 About me:
 
 
-<p>With a bachelor's degree in mechatronics engineering and enthusiasm for software development, I am interested in developing my career in AI specially with Generative AI. Driven by a desire to make a positive impact, I am resolute in my goal to excel as a engineer and contribute to projects that benefit society. </p>
+<p>I'm passionate about building autonomous robots that navigate and interact intelligently with currently focusing on **Navigation & Path Planning** </p>
 <p>I am fully dedicated to continuous personal and professional growth, striving to evolve into the best version of myself while actively contributing to the well-being of others.</p>
 
 ## 🌐 Socials:
