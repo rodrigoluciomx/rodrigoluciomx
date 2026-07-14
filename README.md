@@ -1,7 +1,7 @@
 # Hi, I'm Rodrigo Lucio
 
-🤖 Mechatronics engineer, currently working as AI Agent Engineer
+🤖 Mechatronics engineer, specializing in embedded software.
 
-🌱 Actively learning about agent architecture, workflow automation and software engineering fundamentals.
+🌱 Wiht a growth mindset, I'm actively learning about agent architecture, workflow automation and new software engineering practices.
 
-⚙️ I'm passionate about computer science, physical AI and autonomous robots
+⚙️ I'm passionate about autonomous robots and computer science.
